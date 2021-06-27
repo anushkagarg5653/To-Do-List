@@ -1,13 +1,15 @@
 # To-Do-List
 Do you also struggle remembering all the tasks you need to complete everyday. Which results in delaying work. Well I struggle a lot.
 
-Hence I created a To-Do-List for myself where I just quickly note down all my stuff I need to finish.
+Hence I created a To-Do-List for myself where I can quickly note down all my stuff I need to finish.
+<br />
+    <p align = "center">
+      <img src="https://github.com/anushkagarg5653/To-Do-List/blob/master/img.JPG"/></p>
+    </p>
+
 
 ## Build With
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
 ## :heart: Found this project interesting?
 ### If you found this project useful, feel free to show some love by giving it a :star:
